@@ -1,2 +1,3 @@
 # javascript-problem-solving
-Let's do some problem solving with raw javascript
+
+  - Common problem solving techniques in JavaScript
